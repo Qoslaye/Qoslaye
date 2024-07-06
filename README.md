@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **spring Framework**
+- 🌱 I’m currently learning **Frameworks**
 
 
 
