@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hassanalijimal1" target="blank"><img src="https://img.shields.io/twitter/follow/hassanalijimal1?logo=twitter&style=for-the-badge" alt="hassanalijimal1" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **spring Framework**
 
-- 👯 I’m looking to collaborate on [Notes App](https://notes-app-two-flame.vercel.app/)
+
 
 - 💬 Ask me about **MERN stack**
 
