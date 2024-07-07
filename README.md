@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassan Ali Jimale</h1>
+<h1 align="center">Hi 👋, I'm HASSAN Ali Jimale</h1>
 <h3 align="center">A passionate frontend developer from Somalia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qoslaye&label=Profile%20views&color=0e75b6&style=flat" alt="qoslaye" /> </p>
