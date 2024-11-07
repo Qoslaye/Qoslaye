@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali Jimale</h1>
 <h3 align="center">Web developer from Somalia, dedicated to building impactful, user-friendly web experiences with passion and skill.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qoslaye&label=Profile%20views&color=0e75b6&style=flat" alt="qoslaye" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qoslaye" alt="qoslaye" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hassanalijimal1" target="blank"><img src="https://img.shields.io/twitter/follow/hassanalijimal1?logo=twitter&style=for-the-badge" alt="hassanalijimal1" /></a> </p>
 
 - 🔭 I'm working on a machine learning project, practicing daily with frameworks to gain insights from data.
 
-- 🌱 I’m currently learning machine learning and new development frameworks.**
+- 🌱 I’m currently learning machine learning and new development frameworks.
 
 - 👯 I’m looking to collaborate on Open to collaborating on web development and machine learning projects to grow and share knowledge!
 
