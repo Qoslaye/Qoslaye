@@ -2,6 +2,9 @@
 <h3 align="center">Web developer from Somalia, dedicated to building impactful, user-friendly web experiences with passion and skill.</h3>
 
 
+
+<p align="left"> <a href="https://twitter.com/hassanalijimal1" target="blank"><img src="https://img.shields.io/twitter/follow/hassanalijimal1?logo=twitter&style=for-the-badge" alt="hassanalijimal1" /></a> </p>
+
 - 🔭 I'm working on a machine learning project, practicing daily with frameworks to gain insights from data.
 
 - 🌱 I’m currently learning machine learning and new development frameworks.
