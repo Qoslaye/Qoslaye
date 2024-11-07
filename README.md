@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/hassanalijimal1" target="blank"><img src="https://img.shields.io/twitter/follow/hassanalijimal1?logo=twitter&style=for-the-badge" alt="hassanalijimal1" /></a> </p>
 
-- 🔭 I’m currently working on **I'm working on a machine learning project, practicing daily with frameworks to gain insights from data.**
+- 🔭 I'm working on a machine learning project, practicing daily with frameworks to gain insights from data.
 
-- 🌱 I’m currently learning **I’m currently learning machine learning and new development frameworks.**
+- 🌱 I’m currently learning machine learning and new development frameworks.**
 
-- 👯 I’m looking to collaborate on **Open to collaborating on web development and machine learning projects to grow and share knowledge!**
+- 👯 I’m looking to collaborate on Open to collaborating on web development and machine learning projects to grow and share knowledge!
 
-- 🤝 I’m looking for help with **Seeking guidance to deepen my understanding of machine learning frameworks and techniques.**
+- 🤝 I’m looking for help with Seeking guidance to deepen my understanding of machine learning frameworks and techniques.
 
 - 📝 I regularly write articles on [Github Profile](Github Profile)
 
-- 💬 Ask me about **Ask me about web development, machine learning, or any frameworks I’m exploring!**
+- 💬 Ask me about web development, machine learning, or any frameworks I’m exploring!
 
-- 📫 How to reach me **iamqoslaye@gmail.com**
+- 📫 Contact me **iamqoslaye@gmail.com**
 
-- ⚡ Fun fact **I’m all about daily coding, web dev, and machine learning!**
+- ⚡ I’m all about daily coding, web dev, and machine learning!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
