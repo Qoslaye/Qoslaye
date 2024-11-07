@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassan Ali Jimale</h1>
 <h3 align="center">Web developer from Somalia, dedicated to building impactful, user-friendly web experiences with passion and skill.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qoslaye&label=Profile%20views&color=0e75b6&style=flat" alt="qoslaye" /> </p>
+
+
 
 
 <p align="left"> <a href="https://twitter.com/hassanalijimal1" target="blank"><img src="https://img.shields.io/twitter/follow/hassanalijimal1?logo=twitter&style=for-the-badge" alt="hassanalijimal1" /></a> </p>
