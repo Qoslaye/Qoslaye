@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with Seeking guidance to deepen my understanding of machine learning frameworks and techniques.
 
-- 📝 I regularly write articles on [Github Profile](Github Profile)
+- 📝 I regularly write articles on (Github Profile)
 
 - 💬 Ask me about web development, machine learning, or any frameworks I’m exploring!
 
